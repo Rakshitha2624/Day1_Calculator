@@ -28,7 +28,7 @@ public class Calculator {
         Scanner scanner = new Scanner(System.in);
         boolean continueCalc = true;
 
-        System.out.println("🧮 Welcome to Java Console Calculator!");
+        System.out.println(" Welcome to Java Console Calculator!");
 
         while (continueCalc) {
             System.out.println("\nChoose operation:");
